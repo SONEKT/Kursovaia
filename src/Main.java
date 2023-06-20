@@ -9,7 +9,7 @@ public class Main {
         return sum;
     }
 
-    public static float avarageSalary() {
+    public static float averageSalary() {
         return sumSalary() / empl.length;
     }
 
@@ -62,7 +62,7 @@ public class Main {
         System.out.println("Сумма трат за месяц составила " + sumSalary() + " рублей");
         System.out.println("Минимальная зарплата у сотрудника - " + minSalary());
         System.out.println("Максимальная зарплата у сотрудника - " + maxSalary());
-        System.out.println("Средняя зарплата сотрудников - " + avarageSalary());
+        System.out.println("Средняя зарплата сотрудников - " + averageSalary());
         System.out.println(callFIO());
     }
 }
