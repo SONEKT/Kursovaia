@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ca82f54-81d4-4065-9170-3d2cc6e681eb" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Employee.java" beforeDir="false" />
+    <list default="true" id="9ca82f54-81d4-4065-9170-3d2cc6e681eb" name="Changes" comment="Базовый уровень">
+      <change beforePath="$PROJECT_DIR$/src/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687285585035</updated>
-      <workItem from="1687285586047" duration="8483000" />
+      <workItem from="1687285586047" duration="8954000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1687285623523</created>
@@ -72,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687285948361</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Базовый уровень">
+      <created>1687294473275</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687294473275</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,6 +85,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="Базовый уровень" />
+    <option name="LAST_COMMIT_MESSAGE" value="Базовый уровень" />
   </component>
 </project>

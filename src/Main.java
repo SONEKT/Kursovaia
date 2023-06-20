@@ -1,7 +1,4 @@
-import javax.imageio.stream.FileImageOutputStream;
-
 public class Main {
-
     public static Employee[] empl = new Employee[10];
 
     public static float sumSalary() {
@@ -15,7 +12,6 @@ public class Main {
     public static float avarageSalary() {
         return sumSalary() / empl.length;
     }
-
 
     public static Employee minSalary() {
         float minSalary = Float.MAX_VALUE;
@@ -44,13 +40,12 @@ public class Main {
     public static String callFIO() {
         String fio ="";
         for (Employee employee : empl) {
-            fio = fio + employee.getFIO()+ " ";
+            fio += employee.getFio()+ " ";
         }
         return fio;
     }
 
     public static void main(String[] args) {
-
         empl[0] = new Employee("Fam1 Name1 SName1", 1, 25500f);
         empl[1] = new Employee("Fam2 Name2 SName2", 1, 31450f);
         empl[2] = new Employee("Fam3 Name3 SName3", 2, 40200f);
