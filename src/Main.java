@@ -59,7 +59,7 @@ public class Main {
         for (Employee print : empl) {
             System.out.println(print);
         }
-        System.out.println("Сумма трат за месяц составила " + sumSalary() + " рублей");
+        System.out.println("Сумма трат за месяц составила " + sumSalary() + " рублей.");
         System.out.println("Минимальная зарплата у сотрудника - " + minSalary());
         System.out.println("Максимальная зарплата у сотрудника - " + maxSalary());
         System.out.println("Средняя зарплата сотрудников - " + averageSalary());
